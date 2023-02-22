@@ -1,5 +1,5 @@
 {% set name = "raiutils" %}
-{% set version = "0.3.0" %}
+{% set version = "0.4.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/raiutils-{{ version }}.tar.gz
-  sha256: 279a9518440dad8d94181b6667c561b47240648a7ea662f4f2c8caa074bfefde
+  sha256: 1686dfae2ed59ccadb69ce5957b753be352ead42e87559c24223c3dfd055b703
 
 build:
   noarch: python
