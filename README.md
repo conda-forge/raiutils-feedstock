@@ -1,11 +1,11 @@
-About raiutils
-==============
+About raiutils-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/raiutils-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/microsoft/responsible-ai-widgets
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/raiutils-feedstock/blob/main/LICENSE.txt)
 
 Summary: Common basic utilities used across various RAI tools
 
